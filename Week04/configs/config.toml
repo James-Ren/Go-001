@@ -1,0 +1,5 @@
+[mysql]
+dsn="user:pass@tcp(127.0.0.1:3306)/db?charset=utf8&timeout=1s&readTimeout=1s"
+
+[grpc]
+port=":9090"
